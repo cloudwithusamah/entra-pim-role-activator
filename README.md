@@ -14,9 +14,9 @@ Real-time activity log
 Automatic module installation & prerequisite checks
 📸 Screenshots
 
-Add screenshots here (recommended for GitHub visibility):
+<img width="1245" height="952" alt="image" src="https://github.com/user-attachments/assets/d1be290b-cc4b-45d9-9395-cd1093a2443a" />
 
-/docs/screenshots/main-window.png
+
 
 📋 Requirements
 Windows OS
