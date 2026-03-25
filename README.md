@@ -152,7 +152,7 @@ Modules won’t install
 
 📄 License
 
-- Recommended: MIT License
+MIT License
 
 ⚠️ Disclaimer
 
