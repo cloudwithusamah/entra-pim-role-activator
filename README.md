@@ -18,6 +18,12 @@ A PowerShell-based GUI tool for securely activating Microsoft Entra Privileged I
 
 <img width="1245" height="952" alt="image" src="https://github.com/user-attachments/assets/d1be290b-cc4b-45d9-9395-cd1093a2443a" />
 
+<img width="1200" height="367" alt="image" src="https://github.com/user-attachments/assets/759376a5-3c30-4145-b34d-409f3cfa57fb" />
+
+<img width="245" height="314" alt="image" src="https://github.com/user-attachments/assets/06747d4d-06ba-4074-b91e-481f38e61e10" />
+
+<img width="789" height="331" alt="image" src="https://github.com/user-attachments/assets/7661bcbf-4c8b-4b08-99c0-73f3fac57e51" />
+
 
 
 📋 Requirements
