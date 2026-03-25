@@ -4,23 +4,15 @@ A PowerShell-based GUI tool for securely activating Microsoft Entra Privileged I
 
 🚀 Features
 
-Clean and responsive Windows Forms GUI
-
-Interactive Microsoft Graph authentication
-
-Automatically loads eligible PIM roles
-
-View currently active role assignments
-
-Built-in role set presets for quick selection
-
-Multi-role activation support
-
-Custom activation reason + duration
-
-Real-time activity log
-
-Automatic module installation & prerequisite checks
+- Clean and responsive Windows Forms GUI  
+- Interactive Microsoft Graph authentication  
+- Automatically loads eligible PIM roles  
+- View currently active role assignments  
+- Built-in role set presets  
+- Multi-role activation support  
+- Custom activation reason and duration  
+- Real-time activity log  
+- Automatic module installation and prerequisite checks  
 
 📸 Screenshots
 
