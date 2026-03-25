@@ -56,13 +56,13 @@ The tool requests:
 
 📁 Project Structure
 
-Entra-PIM-Role-Activator/
+Entra-PIM-Role-Activator-Main/
 
 - Entra-PIM-Role-Activator.ps1
 - Launch-Entra-PIM-Role-Activator.bat
 - README.md
 - LICENSE
-- Logs (Created on First Use)
+- Logs (Folder created on first use)
 
 ▶️ Getting Started
 
@@ -77,7 +77,9 @@ This will:
 - Use PowerShell 7 if available
 - Fall back to Windows PowerShell if needed
 - Launch the GUI
-- Option 2 — Run manually
+
+Option 2 — Run manually
+
 - pwsh -ExecutionPolicy Bypass -STA -File .\Entra-PIM-Role-Activator.ps1
 
 or:
@@ -86,19 +88,19 @@ or:
 
 ⚙️ How It Works
 
-- Launch the tool
-- Click Connect
-- Sign in with your Microsoft Entra account
+1.  Launch the tool
+2.  Click Connect
+3.  Sign in with your Microsoft Entra account & MFA (if present)
 
 The tool loads:
 - Eligible PIM roles
 - Active role assignments
 - Tenant details
   
-- Select roles
-- Enter a reason
-- Choose duration
-- Click Activate Roles
+4. Select roles
+5. Enter a reason
+6. Choose duration
+7. Click Activate Roles
 
 🧠 Role Sets
 
@@ -129,10 +131,11 @@ Each session generates a timestamped log file.
 
 🛠 Troubleshooting
 
-- No roles showing
+No roles showing?
 - Ensure your account has eligible PIM roles
 - Click Refresh
-- Activation fails
+
+Activation fails
 - Check the in-app log
 - Review log files in /Logs
 - Verify permissions and role eligibility
@@ -156,9 +159,10 @@ Modules won’t install
 - Packaging as executable
 - UI enhancements
 
-📄 License
+⚠️ Disclaimer
 
-MIT License
+- This tool is provided as-is without warranty.
+- Test thoroughly before use in production environments.
 
 Copyright (c) 2026 cloudwithusamah
 
@@ -180,7 +184,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-⚠️ Disclaimer
-
-- This tool is provided as-is without warranty.
-- Test thoroughly before use in production environments.
