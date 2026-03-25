@@ -51,17 +51,12 @@ The tool requests:
 📁 Project Structure
 
 Entra-PIM-Role-Activator/
-│
-├── Entra-PIM-Role-Activator.ps1
-├── Launch-Entra-PIM-Role-Activator.bat
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── docs/
-│   └── screenshots/
-│
-└── Logs/
+
+- Entra-PIM-Role-Activator.ps1
+- Launch-Entra-PIM-Role-Activator.bat
+- README.md
+- LICENSE
+- Logs (Created on First Use)
 
 ▶️ Getting Started
 
