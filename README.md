@@ -3,6 +3,7 @@ Entra PIM Role Activator
 A PowerShell-based GUI tool for securely activating Microsoft Entra Privileged Identity Management (PIM) roles using Microsoft Graph.
 
 🚀 Features
+
 Clean and responsive Windows Forms GUI
 Interactive Microsoft Graph authentication
 Automatically loads eligible PIM roles
